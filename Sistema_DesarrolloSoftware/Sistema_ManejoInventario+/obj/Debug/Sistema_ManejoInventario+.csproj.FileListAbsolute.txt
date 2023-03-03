@@ -1,0 +1,88 @@
+C:\Users\Mario\Desktop\Universidad\Desarollo de software\Sistema_ManejoInventario+\Sistema_ManejoInventario+\bin\Debug\Sistema_ManejoInventario+.exe.config
+C:\Users\Mario\Desktop\Universidad\Desarollo de software\Sistema_ManejoInventario+\Sistema_ManejoInventario+\bin\Debug\Sistema_ManejoInventario+.exe
+C:\Users\Mario\Desktop\Universidad\Desarollo de software\Sistema_ManejoInventario+\Sistema_ManejoInventario+\bin\Debug\Sistema_ManejoInventario+.pdb
+C:\Users\Mario\Desktop\Universidad\Desarollo de software\Sistema_ManejoInventario+\Sistema_ManejoInventario+\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Mario\Desktop\Universidad\Desarollo de software\Sistema_ManejoInventario+\Sistema_ManejoInventario+\obj\Debug\Sistema_ManejoInventario+.csprojAssemblyReference.cache
+C:\Users\Mario\Desktop\Universidad\Desarollo de software\Sistema_ManejoInventario+\Sistema_ManejoInventario+\obj\Debug\Sistema_ManejoInventario_.Form1.resources
+C:\Users\Mario\Desktop\Universidad\Desarollo de software\Sistema_ManejoInventario+\Sistema_ManejoInventario+\obj\Debug\Sistema_ManejoInventario_.Properties.Resources.resources
+C:\Users\Mario\Desktop\Universidad\Desarollo de software\Sistema_ManejoInventario+\Sistema_ManejoInventario+\obj\Debug\Sistema_ManejoInventario+.csproj.GenerateResource.cache
+C:\Users\Mario\Desktop\Universidad\Desarollo de software\Sistema_ManejoInventario+\Sistema_ManejoInventario+\obj\Debug\Sistema_ManejoInventario+.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Desktop\Universidad\Desarollo de software\Sistema_ManejoInventario+\Sistema_ManejoInventario+\obj\Debug\Sistema_ManejoInventario+.csproj.CopyComplete
+C:\Users\Mario\Desktop\Universidad\Desarollo de software\Sistema_ManejoInventario+\Sistema_ManejoInventario+\obj\Debug\Sistema_ManejoInventario+.exe
+C:\Users\Mario\Desktop\Universidad\Desarollo de software\Sistema_ManejoInventario+\Sistema_ManejoInventario+\obj\Debug\Sistema_ManejoInventario+.pdb
+C:\Users\Mario\Desktop\Universidad\Desarollo de software\Sistema_ManejoInventario+\Sistema_ManejoInventario+\obj\Debug\Sistema_ManejoInventario_.MenuPrincipal.resources
+C:\Users\Mario\Desktop\Universidad\Desarollo de software\Sistema_ManejoInventario+\Sistema_ManejoInventario+\obj\Debug\Sistema_ManejoInventario_.Inventario.resources
+C:\Users\Mario\Desktop\Universidad\Desarollo de software\Sistema_ManejoInventario+\Sistema_ManejoInventario+\obj\Debug\Sistema_ManejoInventario_.Ventas.resources
+C:\Users\Mario\Desktop\Universidad\Desarollo de software\Sistema_ManejoInventario+\Sistema_ManejoInventario+\obj\Debug\Sistema_ManejoInventario_.CrearReporte.resources
+C:\Users\Mario\Desktop\Universidad\Desarollo de software\Sistema_ManejoInventario+\Sistema_ManejoInventario+\obj\Debug\Sistema_ManejoInventario_.VentanaMenuPrincipal.resources
+C:\Users\Diego\Desktop\Varios\Sistema_DesarrolloSoftware\Sistema_ManejoInventario+\bin\Debug\Sistema_ManejoInventario+.exe.config
+C:\Users\Diego\Desktop\Varios\Sistema_DesarrolloSoftware\Sistema_ManejoInventario+\bin\Debug\Sistema_ManejoInventario+.exe
+C:\Users\Diego\Desktop\Varios\Sistema_DesarrolloSoftware\Sistema_ManejoInventario+\bin\Debug\Sistema_ManejoInventario+.pdb
+C:\Users\Diego\Desktop\Varios\Sistema_DesarrolloSoftware\Sistema_ManejoInventario+\obj\Debug\Sistema_ManejoInventario+.csproj.AssemblyReference.cache
+C:\Users\Diego\Desktop\Varios\Sistema_DesarrolloSoftware\Sistema_ManejoInventario+\obj\Debug\Sistema_ManejoInventario+.csproj.SuggestedBindingRedirects.cache
+C:\Users\Diego\Desktop\Varios\Sistema_DesarrolloSoftware\Sistema_ManejoInventario+\obj\Debug\Sistema_ManejoInventario_.CrearReporte.resources
+C:\Users\Diego\Desktop\Varios\Sistema_DesarrolloSoftware\Sistema_ManejoInventario+\obj\Debug\Sistema_ManejoInventario_.Form1.resources
+C:\Users\Diego\Desktop\Varios\Sistema_DesarrolloSoftware\Sistema_ManejoInventario+\obj\Debug\Sistema_ManejoInventario_.Inventario.resources
+C:\Users\Diego\Desktop\Varios\Sistema_DesarrolloSoftware\Sistema_ManejoInventario+\obj\Debug\Sistema_ManejoInventario_.InventarioEmpleado.resources
+C:\Users\Diego\Desktop\Varios\Sistema_DesarrolloSoftware\Sistema_ManejoInventario+\obj\Debug\Sistema_ManejoInventario_.MenuPrincipal.resources
+C:\Users\Diego\Desktop\Varios\Sistema_DesarrolloSoftware\Sistema_ManejoInventario+\obj\Debug\Sistema_ManejoInventario_.Properties.Resources.resources
+C:\Users\Diego\Desktop\Varios\Sistema_DesarrolloSoftware\Sistema_ManejoInventario+\obj\Debug\Sistema_ManejoInventario_.VentanaMenuPrincipal.resources
+C:\Users\Diego\Desktop\Varios\Sistema_DesarrolloSoftware\Sistema_ManejoInventario+\obj\Debug\Sistema_ManejoInventario_.Ventas.resources
+C:\Users\Diego\Desktop\Varios\Sistema_DesarrolloSoftware\Sistema_ManejoInventario+\obj\Debug\Sistema_ManejoInventario+.csproj.GenerateResource.cache
+C:\Users\Diego\Desktop\Varios\Sistema_DesarrolloSoftware\Sistema_ManejoInventario+\obj\Debug\Sistema_ManejoInventario+.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Desktop\Varios\Sistema_DesarrolloSoftware\Sistema_ManejoInventario+\obj\Debug\Sistema_ManejoInventario+.csproj.CopyComplete
+C:\Users\Diego\Desktop\Varios\Sistema_DesarrolloSoftware\Sistema_ManejoInventario+\obj\Debug\Sistema_ManejoInventario+.exe
+C:\Users\Diego\Desktop\Varios\Sistema_DesarrolloSoftware\Sistema_ManejoInventario+\obj\Debug\Sistema_ManejoInventario+.pdb
+C:\Users\Usuario\Desktop\MARIO ROBERTO\Sistema_DesarrolloSoftware\Sistema_ManejoInventario+\bin\Debug\Sistema_ManejoInventario+.exe.config
+C:\Users\Usuario\Desktop\MARIO ROBERTO\Sistema_DesarrolloSoftware\Sistema_ManejoInventario+\bin\Debug\Sistema_ManejoInventario+.exe
+C:\Users\Usuario\Desktop\MARIO ROBERTO\Sistema_DesarrolloSoftware\Sistema_ManejoInventario+\bin\Debug\Sistema_ManejoInventario+.pdb
+C:\Users\Usuario\Desktop\MARIO ROBERTO\Sistema_DesarrolloSoftware\Sistema_ManejoInventario+\obj\Debug\Sistema_ManejoInventario+.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\MARIO ROBERTO\Sistema_DesarrolloSoftware\Sistema_ManejoInventario+\obj\Debug\Sistema_ManejoInventario_.CrearReporte.resources
+C:\Users\Usuario\Desktop\MARIO ROBERTO\Sistema_DesarrolloSoftware\Sistema_ManejoInventario+\obj\Debug\Sistema_ManejoInventario_.Form1.resources
+C:\Users\Usuario\Desktop\MARIO ROBERTO\Sistema_DesarrolloSoftware\Sistema_ManejoInventario+\obj\Debug\Sistema_ManejoInventario_.Inventario.resources
+C:\Users\Usuario\Desktop\MARIO ROBERTO\Sistema_DesarrolloSoftware\Sistema_ManejoInventario+\obj\Debug\Sistema_ManejoInventario_.InventarioEmpleado.resources
+C:\Users\Usuario\Desktop\MARIO ROBERTO\Sistema_DesarrolloSoftware\Sistema_ManejoInventario+\obj\Debug\Sistema_ManejoInventario_.MenuPrincipal.resources
+C:\Users\Usuario\Desktop\MARIO ROBERTO\Sistema_DesarrolloSoftware\Sistema_ManejoInventario+\obj\Debug\Sistema_ManejoInventario_.Properties.Resources.resources
+C:\Users\Usuario\Desktop\MARIO ROBERTO\Sistema_DesarrolloSoftware\Sistema_ManejoInventario+\obj\Debug\Sistema_ManejoInventario_.VentanaMenuPrincipal.resources
+C:\Users\Usuario\Desktop\MARIO ROBERTO\Sistema_DesarrolloSoftware\Sistema_ManejoInventario+\obj\Debug\Sistema_ManejoInventario_.Ventas.resources
+C:\Users\Usuario\Desktop\MARIO ROBERTO\Sistema_DesarrolloSoftware\Sistema_ManejoInventario+\obj\Debug\Sistema_ManejoInventario+.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\MARIO ROBERTO\Sistema_DesarrolloSoftware\Sistema_ManejoInventario+\obj\Debug\Sistema_ManejoInventario+.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\MARIO ROBERTO\Sistema_DesarrolloSoftware\Sistema_ManejoInventario+\obj\Debug\Sistema_ManejoInventario+.csproj.CopyComplete
+C:\Users\Usuario\Desktop\MARIO ROBERTO\Sistema_DesarrolloSoftware\Sistema_ManejoInventario+\obj\Debug\Sistema_ManejoInventario+.exe
+C:\Users\Usuario\Desktop\MARIO ROBERTO\Sistema_DesarrolloSoftware\Sistema_ManejoInventario+\obj\Debug\Sistema_ManejoInventario+.pdb
+C:\Users\Mario\Desktop\Universidad\Desarollo de software\Sistema_DesarrolloSoftware\Sistema_ManejoInventario+\bin\Debug\Sistema_ManejoInventario+.exe.config
+C:\Users\Mario\Desktop\Universidad\Desarollo de software\Sistema_DesarrolloSoftware\Sistema_ManejoInventario+\bin\Debug\Sistema_ManejoInventario+.exe
+C:\Users\Mario\Desktop\Universidad\Desarollo de software\Sistema_DesarrolloSoftware\Sistema_ManejoInventario+\bin\Debug\Sistema_ManejoInventario+.pdb
+C:\Users\Mario\Desktop\Universidad\Desarollo de software\Sistema_DesarrolloSoftware\Sistema_ManejoInventario+\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Mario\Desktop\Universidad\Desarollo de software\Sistema_DesarrolloSoftware\Sistema_ManejoInventario+\obj\Debug\Sistema_ManejoInventario+.csprojAssemblyReference.cache
+C:\Users\Mario\Desktop\Universidad\Desarollo de software\Sistema_DesarrolloSoftware\Sistema_ManejoInventario+\obj\Debug\Sistema_ManejoInventario_.CrearReporte.resources
+C:\Users\Mario\Desktop\Universidad\Desarollo de software\Sistema_DesarrolloSoftware\Sistema_ManejoInventario+\obj\Debug\Sistema_ManejoInventario_.Form1.resources
+C:\Users\Mario\Desktop\Universidad\Desarollo de software\Sistema_DesarrolloSoftware\Sistema_ManejoInventario+\obj\Debug\Sistema_ManejoInventario_.Inventario.resources
+C:\Users\Mario\Desktop\Universidad\Desarollo de software\Sistema_DesarrolloSoftware\Sistema_ManejoInventario+\obj\Debug\Sistema_ManejoInventario_.InventarioEmpleado.resources
+C:\Users\Mario\Desktop\Universidad\Desarollo de software\Sistema_DesarrolloSoftware\Sistema_ManejoInventario+\obj\Debug\Sistema_ManejoInventario_.MenuPrincipal.resources
+C:\Users\Mario\Desktop\Universidad\Desarollo de software\Sistema_DesarrolloSoftware\Sistema_ManejoInventario+\obj\Debug\Sistema_ManejoInventario_.Properties.Resources.resources
+C:\Users\Mario\Desktop\Universidad\Desarollo de software\Sistema_DesarrolloSoftware\Sistema_ManejoInventario+\obj\Debug\Sistema_ManejoInventario_.VentanaMenuPrincipal.resources
+C:\Users\Mario\Desktop\Universidad\Desarollo de software\Sistema_DesarrolloSoftware\Sistema_ManejoInventario+\obj\Debug\Sistema_ManejoInventario_.Ventas.resources
+C:\Users\Mario\Desktop\Universidad\Desarollo de software\Sistema_DesarrolloSoftware\Sistema_ManejoInventario+\obj\Debug\Sistema_ManejoInventario+.csproj.GenerateResource.cache
+C:\Users\Mario\Desktop\Universidad\Desarollo de software\Sistema_DesarrolloSoftware\Sistema_ManejoInventario+\obj\Debug\Sistema_ManejoInventario+.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Desktop\Universidad\Desarollo de software\Sistema_DesarrolloSoftware\Sistema_ManejoInventario+\obj\Debug\Sistema_ManejoInventario+.csproj.CopyComplete
+C:\Users\Mario\Desktop\Universidad\Desarollo de software\Sistema_DesarrolloSoftware\Sistema_ManejoInventario+\obj\Debug\Sistema_ManejoInventario+.exe
+C:\Users\Mario\Desktop\Universidad\Desarollo de software\Sistema_DesarrolloSoftware\Sistema_ManejoInventario+\obj\Debug\Sistema_ManejoInventario+.pdb
+C:\Users\Diego\Downloads\Sistema_DesarrolloSoftware\Sistema_ManejoInventario+\bin\Debug\Sistema_ManejoInventario+.exe.config
+C:\Users\Diego\Downloads\Sistema_DesarrolloSoftware\Sistema_ManejoInventario+\bin\Debug\Sistema_ManejoInventario+.exe
+C:\Users\Diego\Downloads\Sistema_DesarrolloSoftware\Sistema_ManejoInventario+\bin\Debug\Sistema_ManejoInventario+.pdb
+C:\Users\Diego\Downloads\Sistema_DesarrolloSoftware\Sistema_ManejoInventario+\obj\Debug\Sistema_ManejoInventario+.csproj.AssemblyReference.cache
+C:\Users\Diego\Downloads\Sistema_DesarrolloSoftware\Sistema_ManejoInventario+\obj\Debug\Sistema_ManejoInventario+.csproj.SuggestedBindingRedirects.cache
+C:\Users\Diego\Downloads\Sistema_DesarrolloSoftware\Sistema_ManejoInventario+\obj\Debug\Sistema_ManejoInventario_.CrearReporte.resources
+C:\Users\Diego\Downloads\Sistema_DesarrolloSoftware\Sistema_ManejoInventario+\obj\Debug\Sistema_ManejoInventario_.Form1.resources
+C:\Users\Diego\Downloads\Sistema_DesarrolloSoftware\Sistema_ManejoInventario+\obj\Debug\Sistema_ManejoInventario_.Inventario.resources
+C:\Users\Diego\Downloads\Sistema_DesarrolloSoftware\Sistema_ManejoInventario+\obj\Debug\Sistema_ManejoInventario_.InventarioEmpleado.resources
+C:\Users\Diego\Downloads\Sistema_DesarrolloSoftware\Sistema_ManejoInventario+\obj\Debug\Sistema_ManejoInventario_.MenuPrincipal.resources
+C:\Users\Diego\Downloads\Sistema_DesarrolloSoftware\Sistema_ManejoInventario+\obj\Debug\Sistema_ManejoInventario_.Properties.Resources.resources
+C:\Users\Diego\Downloads\Sistema_DesarrolloSoftware\Sistema_ManejoInventario+\obj\Debug\Sistema_ManejoInventario_.VentanaMenuPrincipal.resources
+C:\Users\Diego\Downloads\Sistema_DesarrolloSoftware\Sistema_ManejoInventario+\obj\Debug\Sistema_ManejoInventario_.Ventas.resources
+C:\Users\Diego\Downloads\Sistema_DesarrolloSoftware\Sistema_ManejoInventario+\obj\Debug\Sistema_ManejoInventario+.csproj.GenerateResource.cache
+C:\Users\Diego\Downloads\Sistema_DesarrolloSoftware\Sistema_ManejoInventario+\obj\Debug\Sistema_ManejoInventario+.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Downloads\Sistema_DesarrolloSoftware\Sistema_ManejoInventario+\obj\Debug\Sistema_ManejoInventario+.csproj.CopyComplete
+C:\Users\Diego\Downloads\Sistema_DesarrolloSoftware\Sistema_ManejoInventario+\obj\Debug\Sistema_ManejoInventario+.exe
+C:\Users\Diego\Downloads\Sistema_DesarrolloSoftware\Sistema_ManejoInventario+\obj\Debug\Sistema_ManejoInventario+.pdb
